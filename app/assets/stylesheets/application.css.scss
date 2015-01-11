@@ -283,6 +283,7 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
     text-shadow: 2px 2px #000000;
+    list-style-type: none;
 }
 
 #map {
@@ -1607,6 +1608,7 @@ ul,
 ol {
   margin-top: 0;
   margin-bottom: 10px;
+  list-style-type: none;
 }
 ul ul,
 ol ul,
